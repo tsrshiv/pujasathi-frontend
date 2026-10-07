@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Custom Theme Colors for PujaSathi */
+@theme {
+  --color-saffron-500: #FF9933;
+  --color-saffron-600: #E67E00;
+}
